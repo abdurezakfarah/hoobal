@@ -1,0 +1,10 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Cabdirisaaq Faarax",
+  "license": "MIT",
+  "scripts": {
+     "dev": "cd client && yarn dev"
+  }
+}
